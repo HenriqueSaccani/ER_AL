@@ -14,7 +14,7 @@ Entity Resolution (ER) is a critical process for linking records within noisy da
 
 - **Research Publication:** The findings were published in the [29th Italian Symposium on Advanced Database Systems](https://ceur-ws.org/Vol-2994/paper40.pdf) .
 
-- **Additional Information (Italian):** Explore more details available in Italian under the folder [Italian Docs](Italian%20Docs).
+- **Additional Information (Italian):** Explore more details available in Italian under the folder [Italian Docs](Italian%20docs).
 
 ## Conclusions
 
